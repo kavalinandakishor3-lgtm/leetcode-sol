@@ -18,12 +18,14 @@
 | ------- |
 | [0039-combination-sum](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
