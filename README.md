@@ -19,6 +19,7 @@
 | [0039-combination-sum](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0078-subsets) |
+| [0219-contains-duplicate-ii](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kavalinandakishor3-lgtm/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
